@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 23-10-25
+## Date: 31-10-25
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -157,7 +157,7 @@ Sri Ganga Cinemas is a popular multiplex located in Kolathur, Chennai. It featur
 
 ## OUTPUT
 CITY:-
-<img width="1034" height="611" alt="image" src="https://github.com/user-attachments/assets/2c70f125-93ad-4633-a9c1-e6f8ad8b21a7" />
+<img width="1113" height="630" alt="image" src="https://github.com/user-attachments/assets/16ca6557-7904-4af9-9183-11dda8c2824d" />
 
 PARK
 <img width="1029" height="600" alt="image" src="https://github.com/user-attachments/assets/1aee7867-0f8d-4ebd-8295-52be45e67211" />
